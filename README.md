@@ -4,19 +4,22 @@
       <td align="center" valign="middle">
         <img src="IPSlogo.png" alt="UNIPS Logo" height="100"/>
         <br/>
-        <sub><b> ESTSetÃºbal | Universidade PolitÃ©cnica de SetÃºbal (UNIPS) </b><br/>SetÃºbal, Portugal</sub>
+        <sub><b> ESTSetúbal | Universidade Politécnica de Setúbal (UNIPS) </b><br/>Setúbal, Portugal</sub>
       </td>
     </tr>
   </table>
 </div>
 
 
-## Sobre o laboratÃ³rio
+## Sobre o laboratório
 
-Segundo laboratÃ³rio feito em aula, AnimaÃ§Ãµes.
+Primeiro laboratório feito em aula, uma pequena introdução ao Unity.
+
+## Download do Projeto
+https://pixeldrain.com/u/iHzJYoqU
 
 ## Autores
 
 **Marcos Costa ,** 
 **Dinis Teixeira** <br>
-LaboratÃ³rio - Ano letivo 2026/2027
+Laboratório - Ano letivo 2026/2027
