@@ -13,13 +13,11 @@
 
 ## Sobre o laboratório
 
-Primeiro laboratório feito em aula, uma pequena introdução ao Unity.
+Segundo laboratório feito em aula, uma pequena experiencia com Animações.
 
-## Download do Projeto
-https://pixeldrain.com/u/iHzJYoqU
 
 ## Autores
 
-**Marcos Costa ,** 
+**Marcos Costa,** 
 **Dinis Teixeira** <br>
 Laboratório - Ano letivo 2026/2027
